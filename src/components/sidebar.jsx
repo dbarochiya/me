@@ -39,6 +39,9 @@ export default class Sidebar extends Component {
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
                   Thanks <a href="https://colorlib.com" target="_blank">Colorlib</a> for inspiration 
               </small></p>
+              <p><small>
+                  Automated deployment on gh-pages using Travis-CI
+              </small></p>
             </div>
           </aside>
         </div>

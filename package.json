@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dbarochiya.github.io/me",
+  "homepage": "http://profile.dhruvbarochiya.me",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
